@@ -1,9 +1,15 @@
 #Gerekli Kütüphaneler: 
+
 -Selenium
+
 -Selenium'un içerdiği 'webdriver' eklentisi
+
 -time
+
 -random
+
 -chromedriver.exe(chrome resmi sayfasından indirilebilir)
+
 
 Not:Bu proje hala geliştirilme aşamasındadır, projenin detaylı sürümü tamamlanmak üzeredir ve tamamlandığı zaman yeni bir repo'ya yüklenecektir.
 
